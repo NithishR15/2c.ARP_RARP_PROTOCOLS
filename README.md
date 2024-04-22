@@ -1,5 +1,5 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-##NAME : Nithish R
+## NAME : Nithish R
 
 ## Reg NO : 212223040135
 ## AIM
